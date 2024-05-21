@@ -1,0 +1,13 @@
+main {
+  padding: 2rem;
+  background-color: #d2d2d0;
+  margin: 1rem auto;
+  max-width: 1200px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 40px;
+}
+
+section img {
+  margin-left: 450px;
+  height: 150px;
+}
